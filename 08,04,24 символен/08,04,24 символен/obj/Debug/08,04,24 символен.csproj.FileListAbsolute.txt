@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\08,04,24 символен\08,04,24 символен\bin\Debug\08,04,24 символен.exe.config
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\08,04,24 символен\08,04,24 символен\bin\Debug\08,04,24 символен.exe
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\08,04,24 символен\08,04,24 символен\bin\Debug\08,04,24 символен.pdb
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\08,04,24 символен\08,04,24 символен\obj\Debug\08,04,24 символен.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\08,04,24 символен\08,04,24 символен\obj\Debug\08,04,24 символен.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\08,04,24 символен\08,04,24 символен\obj\Debug\08,04,24 символен.exe
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\08,04,24 символен\08,04,24 символен\obj\Debug\08,04,24 символен.pdb

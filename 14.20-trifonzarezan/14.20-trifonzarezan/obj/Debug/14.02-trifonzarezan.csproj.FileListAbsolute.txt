@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\14.20-trifonzarezan\14.20-trifonzarezan\bin\Debug\14.20-trifonzarezan.exe.config
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\14.20-trifonzarezan\14.20-trifonzarezan\bin\Debug\14.20-trifonzarezan.exe
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\14.20-trifonzarezan\14.20-trifonzarezan\bin\Debug\14.20-trifonzarezan.pdb
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\14.20-trifonzarezan\14.20-trifonzarezan\obj\Debug\14.02-trifonzarezan.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\14.20-trifonzarezan\14.20-trifonzarezan\obj\Debug\14.02-trifonzarezan.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\14.20-trifonzarezan\14.20-trifonzarezan\obj\Debug\14.20-trifonzarezan.exe
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\14.20-trifonzarezan\14.20-trifonzarezan\obj\Debug\14.20-trifonzarezan.pdb
